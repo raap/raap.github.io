@@ -1,0 +1,13 @@
+- title: Tutorials
+  docs:
+  - home
+  - flats
+
+- title: Application
+  docs:
+  - dashboards
+  - filters
+  - data
+  - geo
+  - issue
+  - license
