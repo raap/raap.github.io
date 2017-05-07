@@ -1,7 +1,6 @@
 ---
 layout: docs
 title: Data
-permalink: /docs/data/
 ---
 The data is usually released with a month delay (ie. properties sold in January are released at the end of February), with some records delayed for up to 3 months. Ie. if you want to see all sales for 2015, you need to wait until the end of March 2016. We use the latest UK government data released under <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank">OGL v3.0</a>. 
 

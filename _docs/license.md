@@ -1,7 +1,6 @@
 ---
 layout: docs
 title: License
-permalink: /docs/license/
 ---
 
 Any picture reproduction must use the following credit: <a href="http://www.plumplot.co.uk">© plumplot.co.uk</a>. Further to that, based on data used, the following license note(s) must be added:

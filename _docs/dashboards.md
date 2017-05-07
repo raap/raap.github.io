@@ -1,7 +1,6 @@
 ---
 layout: docs
 title: Maps and dashboards
-permalink: /docs/dashboards/
 ---
 allows you to explore the house market development in a much greater detail.
 

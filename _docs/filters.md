@@ -1,7 +1,6 @@
 ---
 layout: docs
 title: Data filters
-permalink: /docs/filters/
 ---
 
 By using filters you can slice data to get a more detailed view.

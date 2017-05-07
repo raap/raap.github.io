@@ -1,7 +1,6 @@
 ---
 layout: docs
 title: Regions, postcodes
-permalink: /docs/geo/
 ---
 
 We report data based on postcode as they are publicly adopted by people

@@ -1,7 +1,6 @@
 ---
 layout: docs
 title: Most flats sold
-permalink: /docs/flats/
 ---
 <ol>
     <li>Select <code>houses &#x25BE;</code> &#187; <code>transaction volumes</code> menu item.</li>

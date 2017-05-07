@@ -1,7 +1,6 @@
 ---
 layout: docs
 title: House, population card
-permalink: /docs/popup/
 ---
 If you select any map under <code>houses &#x25BE;</code> menu and
 click onto some postcode sector a <b><i>house card</i></b> pops up.

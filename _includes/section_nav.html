@@ -11,7 +11,7 @@ next, lets build a link to it.
 {% endcomment %}
 
 {% for document in docs %}
-  {% assign document_url = document | prepend:"/docs/" | append:"/" %}
+  {% assign document_url = document | prepend:"/docs/" %}
   {% if document_url == page.url %}
     <div class="section-nav">
       <div class="left align-right">

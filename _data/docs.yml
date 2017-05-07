@@ -1,14 +1,14 @@
 - title: Tutorials
   docs:
-  - home
-  - flats
+  - index.html
+  - flats_sold.html
 
 - title: Application
   docs:
-  - dashboards
-  - filters
-  - popup
-  - data
-  - geo
-  - issue
-  - license
+  - dashboards.html
+  - filters.html
+  - popup.html
+  - data.html
+  - geo.html
+  - issue.html
+  - license.html

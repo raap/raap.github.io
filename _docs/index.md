@@ -1,8 +1,6 @@
 ---
 layout: docs
 title: Analyze average flat prices
-permalink: /docs/home/
-redirect_from: /docs/index.html
 ---
 Let's say we plan to buy a flat in London in 'N13 4' postcode sector. We can see this
 sector in more details:
